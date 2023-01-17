@@ -2,13 +2,7 @@
 
 # Introduction
 
-Historically, professions such as investment banking, chartered accountancy, hedge fund and portfolio management, forex trading, and commodities analysis 
-have been highly sought after. However, in today's era of data analysis, it is crucial to keep up with the demands of the industry or risk becoming obsolete
-. Data science has emerged as the leading domain of the decade, with its application in every aspect of corporate life. The incorporation of machine learning
-and artificial intelligence in the financial industry was a game-changer, providing powerful insights and increasing efficiency for all stakeholders, from 
-short-term traders to long-term debt investors. The ability to make accurate predictions and conduct unbiased analysis using powerful tools that can analyze
-millions of data points in seconds has transformed the industry beyond what we could have imagined. This program is designed to both test your knowledge 
-and provide a realistic experience of a financial data science problem in the real world.
+Historically, professions such as investment banking, chartered accountancy, hedge fund and portfolio management, forex trading, and commodities analysis have been highly sought after. However, in today's era of data analysis, it is crucial to keep up with the demands of the industry or risk becoming obsolete. Data science has emerged as the leading domain of the decade, with its application in every aspect of corporate life. The incorporation of machine learning and artificial intelligence in the financial industry was a game-changer, providing powerful insights and increasing efficiency for all stakeholders, from short-term traders to long-term debt investors. The ability to make accurate predictions and conduct unbiased analysis using powerful tools that can analyze millions of data points in seconds has transformed the industry beyond what we could have imagined. This program is designed to both test your knowledge and provide a realistic experience of a financial data science problem in the real world.
 
 # The process I followed to complete this project:
 
